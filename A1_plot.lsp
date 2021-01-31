@@ -11,7 +11,7 @@
 (defun C:a1 ()
 (COMMAND "TILEMODE" "0")
 (command "-plot" "y" "" "DWG To PDF.pc3" "ISO full bleed A1 (841.00 x 594.00 mm)" 
-"m" "l" "n" "e" "1:1" "c" "y" "SDS-2015.ctb" "Y" "n" "N" "n" "" "y" "y")
+"m" "l" "n" "e" "1:1" "c" "y" "acad.ctb" "Y" "n" "N" "n" "" "y" "y")
 (princ)
 )
 
